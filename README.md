@@ -6,11 +6,11 @@
 
 A lightweight Python application that lets you customize your Discord Rich Presence with your own images, descriptions, and activity details.
 
-**Made by D6VAlex**
+**Made by z01309z**
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Discord](https://img.shields.io/badge/Discord-Rich%20Presence-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![Developer](https://img.shields.io/badge/Developer-D6VAlex-111827?style=for-the-badge)](https://github.com/D6VAlex)
+[![Developer](https://img.shields.io/badge/Developer-z01309z-111827?style=for-the-badge)](https://github.com/z01309z)
 
 ---
 
@@ -112,7 +112,7 @@ Verify your Discord Application configuration.
 
 ## Credits
 
-Developed by **D6VAlex**.
+Developed by ****.
 
 Created for fun and educational purposes.
 
@@ -120,14 +120,14 @@ Created for fun and educational purposes.
 
 License
 
-Copyright © 2026 D6VAlex. All rights reserved.
+Copyright © 2026 . All rights reserved.
 
-This project is developed and owned by D6VAlex.
+This project is developed and owned by .
 
 Unauthorized copying, modification, redistribution, or commercial use of this project is prohibited without prior permission from the author.
 
-Developer: D6VAlex
+Developer: 
 
-**D6VAlex © 2026**
+**z01309z © 2026**
 
 </div>
