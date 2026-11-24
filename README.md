@@ -112,7 +112,7 @@ Verify your Discord Application configuration.
 
 ## Credits
 
-Developed by ****.
+Developed by z01309z
 
 Created for fun and educational purposes.
 
@@ -122,7 +122,7 @@ License
 
 Copyright © 2026 . All rights reserved.
 
-This project is developed and owned by .
+This project is developed and owned by z01309z .
 
 Unauthorized copying, modification, redistribution, or commercial use of this project is prohibited without prior permission from the author.
 
