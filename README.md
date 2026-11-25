@@ -120,7 +120,7 @@ Created for fun and educational purposes.
 
 License
 
-Copyright © 2026 . All rights reserved.
+Copyright © . All rights reserved.
 
 This project is developed and owned by z01309z .
 
@@ -128,6 +128,6 @@ Unauthorized copying, modification, redistribution, or commercial use of this pr
 
 Developer: 
 
-**z01309z © 2026**
+**z01309z © **
 
 </div>
